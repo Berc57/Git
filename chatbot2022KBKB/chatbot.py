@@ -14,4 +14,3 @@ while x != "kilépés":
     else:
         time.sleep(1)
         print("Tessék?")
-        
