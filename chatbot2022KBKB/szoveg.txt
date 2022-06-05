@@ -1,1 +1,4 @@
 Neked is szia!!;Helló;Jónapot, tegeződhetünk?
+Hogy vagy?;Milyen volt a napod?;Várod már a nyarat?;Hányadikos vagy?
+Az idő:
+Nekem nincs nevem de ChatBot nak szoktak hívni.;Téged hogy hívnak?
