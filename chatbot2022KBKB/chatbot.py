@@ -13,13 +13,13 @@ print(szoveglista)
 
 while x != "kilépés":
     x = input("-> ")
-    if "szia" == x:
+    if "szia" == x.lower():
         time.sleep(1)
         print(szoveglista[0][0])
-    elif "helo"== x:
+    elif "helo"== x.lower():
         time.sleep(1)
         print(szoveglista[0][1])
-    elif "jó" in x:
+    elif "jó" in x.lower():
         time.sleep(1)
         print(szoveglista[0][2])
     else:
