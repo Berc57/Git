@@ -1,4 +1,12 @@
 Neked is szia!!;Helló;Jónapot, tegeződhetünk?
 Hogy vagy?;Milyen volt a napod?;Várod már a nyarat?;Hányadikos vagy?
-Az idő:
+Az idő:;A dátum:
 Nekem nincs nevem de ChatBot nak szoktak hívni.;Téged hogy hívnak?
+Engem;napja programoztak;Keindl Bercel és Kiss Balázs programozott.
+Gyönyörű neved van;Köszi!!;Szívesen!!
+Ahhoz képest jó napom volt.;És neked?;Nincsenek érzéseim de jól vagyok.;És te?
+Sajnálom :(;Örülök :);És miért?;Na hogy vagy?
+Naaaa.. mond el, hogy jó vagy rossz.. kérlek;Naaaa.. mond el, hogy jól vagy rosszul.. kérlek
+Érdekes, hogy a zenéről kérdezel..;Szerintem minden stílusból vannak lenyűgöző számok;Te melyik stílust szereted a legjobban?
+Azt én is szeretem!!
+- Mit csinál az ügyetlen origamis?;- Mindig ugyanazt hajtogatja!;- Mondj egy olyan szót, amiben benne van a Titanic!;- Óceán;- Hogy néz ki Tarzan, miután nekimegy a fának?;- Torzan!;HA HA :)

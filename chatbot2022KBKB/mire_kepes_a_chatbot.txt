@@ -1,0 +1,13 @@
+A chatbot tud:
+
+-Köszönni, a te köszönésed szerint
+-Megmondani az időt
+-Megmondani a dátumot
+-Ha megkérdezed mi a neve, válaszol és tőled is megkérdezi, a te nevedre is válaszol
+-Ha megkérdezzük hány éves vagy ki programozta akkor megmondja
+-Elcseveghetünk vele, hogy milyen napja volt és nekünk milyen napunk van
+-Kérhetjük, hogy mondjon egy random számot
+-Kérhetjük, hogy mondja el milyen zenéket hallgat
+-Kérhetjük, hogy mondjon viccet ( 3 fajtát tud )
+-Ha valami olyat mondasz neki amit nem tud értelmezni (mert mondjuk elírtad) akkor visszakérdez, hogy "Tessék?"
+-Ha azt mondjuk neki, hogy "kilépés" akkor elköszön és leállítja magát
