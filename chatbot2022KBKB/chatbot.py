@@ -17,14 +17,13 @@ szoveglista = []
 
 for sor in f:
     szoveglista.append(sor.strip().split(";"))
-    
-print(szoveglista)
+
 
 while x != "kilépés":
     x = input("-> ")
     if x.lower() == "kilépés":
         time.sleep(1)
-        print("Viszlát!! Jó volt veled beszélgetni!!")
+        print(szoveglista[12][0])
     elif "szia" in x.lower():
         time.sleep(1)
         print(szoveglista[0][0])
