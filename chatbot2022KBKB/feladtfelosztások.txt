@@ -1,0 +1,8 @@
+python:
+1-127. sorig bercel
+128-200 sorig balázs
+szoveg.txt 
+1-5. sorig balázs
+6-13. sorig bercel
+kód elmagyarázás:
+1-13. sorig bercel 
